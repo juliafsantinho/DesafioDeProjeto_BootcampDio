@@ -98,6 +98,7 @@ Vejamos alguns Subparadigmas do Paradigma Imperativo e exemplos linguagens de pr
 
 🔸 1.3 Paradigma Orientado a Objetos: Smalltalk e Java
 <br>
+
 🔹 2. Paradigma Declarativo
 Este paradigma é o modelo no qual os resultados são descritos, mas os passos para chegar aos resultados não são estabelecidos.
 Vejamos alguns Subparadigmas do Paradigma Declarativo e exemplos linguagens de programação que adotam esses subparadigmas:
