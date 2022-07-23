@@ -3,7 +3,7 @@ Sejam bem-vindos ao desafio: O PARADIGMA DE ORIENTAÇÃO A OBJETOS.
 💎 O objetivo principal é colocar em prática umas das principais ferramentas da OO: ABSTRAÇÃO, ENCAPSULAMENTO, HERANÇA E POLIMORFISMO, através de um projeto Java.
 
 ### 🛑 Pré-Requisitos
-✅ Conhecer a sintaxe da Java
+✅ Conhecer a sintaxe Java
 <br>✅ Java JDK 11
 <br>✅ IDE para desenvolvimento Java (usarei IntelliJ)
 <br>✅ Git
